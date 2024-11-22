@@ -28,7 +28,7 @@ ID,Fecha,Hora,Fecha y Hora,Mapadre,Hija/o,Pedido,Clave,Tipo
 27,2024-11-16,13:32,2024-11-16 13:32:00,Mamá,Gero,Me golpeé la rodilla. Me duela,Golpe,Atención
 28,2024-11-16,13:42,2024-11-16 13:42:00,Papá,Gero,Eva me pelea,Pelea,Atención
 29,2024-11-16,13:49,2024-11-16 13:49:00,Mamá,Eva,Mirame (mientras se tira de cabeza),Mirame,Atención
-30,2024-11-16,13:50,2024-11-16 13:50:00,Mamá,Gero,A mi también, ¿Así? (mientras se tira de cabeza),Mirame,Atención
+30,2024-11-16,13:50,2024-11-16 13:50:00,Mamá,Gero,A mi también ¿Así? (mientras se tira de cabeza),Mirame,Atención
 31,2024-11-16,13:55,2024-11-16 13:55:00,Mamá,Eva,Mirame me tiro otra vez,Mirame,Atención
 32,2024-11-16,14:30,2024-11-16 14:30:00,Mamá,Gero,Necesito una curita. Me duele la rodilla,Objeto,Demanda
 33,2024-11-16,14:35,2024-11-16 14:35:00,Mamá,Eva,¿Te sentas a lado mio?,Varios,Demanda
