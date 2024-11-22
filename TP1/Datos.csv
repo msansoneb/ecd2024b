@@ -2,7 +2,7 @@ ID,Fecha,Hora,Fecha y Hora,Mapadre,Hija/o,Pedido,Clave,Tipo
 1,2024-11-16,7:28,2024-11-16 07:28:00,Mamá,Gero,¿Cargaste mi tablet?,Tecnología,Consulta
 2,2024-11-16,7:30,2024-11-16 07:30:00,Papá,Gero,¿Me haces el desayuno?,Comida,Demanda
 3,2024-11-16,8:00,2024-11-16 08:00:00,Mamá,Gero,¿A qué hora nos vamos?,Horario,Consulta
-"4,2024-11-16,8:57,2024-11-16 08:57:00,Mamá,Gero,""Ya está, me lavé los dientes"",Higiene,Aviso"
+4,2024-11-16,8:57,2024-11-16 08:57:00,Mamá,Gero,Ya está, me lavé los dientes,Higiene,Aviso
 5,2024-11-16,9:01,2024-11-16 09:01:00,Papá,Gero,¿Regamos al loco lopez?,Objeto,Demanda
 6,2024-11-16,9:11,2024-11-16 09:11:00,Mamá,Gero,Le tire agua al loco lopez con este vaso,Objeto,Aviso
 7,2024-11-16,9:14,2024-11-16 09:14:00,Mamá,Eva,¿Nos vamos?,Horario,Consulta
