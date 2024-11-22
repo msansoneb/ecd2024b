@@ -25,62 +25,62 @@ ID,Fecha,Hora,Fecha y Hora,Mapadre,Hija/o,Pedido,Clave,Tipo
 24,2024-11-16,12:47,2024-11-16 12:47:00,Mamá,Gero,¿Dónde están mis antiparras?,Objeto,Demanda
 25,2024-11-16,13:05,2024-11-16 13:05:00,Papá,Eva,¿Trajiste otro paquete de bombuchas?,Objeto,Demanda
 26,2024-11-16,13:11,2024-11-16 13:11:00,Mamá,Gero,¿Me atas la malla? se me caé,Objeto,Demanda
-"27,2024-11-16,13:32,2024-11-16 13:32:00,Mamá,Gero,""Me golpeé la rodilla, me duela"",Golpe,Atención"
+27,2024-11-16,13:32,2024-11-16 13:32:00,Mamá,Gero,Me golpeé la rodilla, me duela,Golpe,Atención
 28,2024-11-16,13:42,2024-11-16 13:42:00,Papá,Gero,Eva me pelea,Pelea,Atención
 29,2024-11-16,13:49,2024-11-16 13:49:00,Mamá,Eva,Mirame (mientras se tira de cabeza),Mirame,Atención
-"30,2024-11-16,13:50,2024-11-16 13:50:00,Mamá,Gero,""A mi también, ¿Así? (mientras se tira de cabeza)"",Mirame,Atención"
-"31,2024-11-16,13:55,2024-11-16 13:55:00,Mamá,Eva,""Mirame, me tiro otra vez"",Mirame,Atención"
-"33,2024-11-16,14:30,2024-11-16 14:30:00,Mamá,Gero,""Necesito una curita, me duele la rodilla"",Objeto,Demanda"
-34,2024-11-16,14:35,2024-11-16 14:35:00,Mamá,Eva,¿Te sentas a lado mio?,Varios,Demanda
-35,2024-11-16,14:37,2024-11-16 14:37:00,Papá,Gero,¿Me pasas pan?,Comida,Demanda
-36,2024-11-16,14:50,2024-11-16 14:50:00,Papá,Gero,¿Me das más carne?,Comida,Demanda
-37,2024-11-16,14:58,2024-11-16 14:58:00,Mamá,Eva,¿Me haces otro sanguchito?,Comida,Demanda
-38,2024-11-16,15:46,2024-11-16 15:46:00,Mamá,Eva,¿Conectas Internet? (tablet),Tecnología,Demanda
-39,2024-11-16,16:00,2024-11-16 16:00:00,Mamá,Gero,Tengo que hacer pis y estoy todo mojado ¿Qué hago?,Varios,Consulta
-40,2024-11-16,16:01,2024-11-16 16:01:00,Papá,Gero,Pasame la toalla,Objeto,Demanda
-41,2024-11-16,16:52,2024-11-16 16:52:00,Papá,Gero,Mirá (mientras hace algo con los juguetes),Mirame,Atención
-42,2024-11-16,17:45,2024-11-16 17:45:00,Mamá,Eva,¿Me ayudas a terminar el cuadro?,Actividad,Atención
-43,2024-11-16,17:47,2024-11-16 17:47:00,Mamá,Eva,¿Dónde está la bolsa con mis cosas?,Objeto,Demanda
-44,2024-11-16,17:50,2024-11-16 17:50:00,Papá,Eva,¿Dónde está la llave del auto?,Objeto,Demanda
-45,2024-11-16,18:20,2024-11-16 18:20:00,Mamá,Eva,¿Podemos meternos a la pileta?,Varios,Permiso
-46,2024-11-16,19:22,2024-11-16 19:22:00,Mamá,Eva,¿Me pasas mi toalla?,Objeto,Demanda
-47,2024-11-16,19:22,2024-11-16 19:22:00,Mamá,Gero,A mi la mía (su toalla),Objeto,Demanda
-"48,2024-11-16,19:30,2024-11-16 19:30:00,Mamá,Gero,""Vení mami, me duele"",Golpe,Atención"
-49,2024-11-16,19:40,2024-11-16 19:40:00,Mamá,Gero,¿Me bañas?,Higiene,Demanda
-50,2024-11-16,19:50,2024-11-16 19:50:00,Mamá,Eva,Me quiero bañar,Higiene,Demanda
-51,2024-11-16,20:30,2024-11-16 20:30:00,Papá,Gero,¿Puedo ver mi tablet?,Tecnología,Permiso
-52,2024-11-16,21:21,2024-11-16 21:21:00,Papá,Gero,¿Pueden empezar hacer las patys?,Comida,Demanda
-53,2024-11-16,22:07,2024-11-16 22:07:00,Mamá,Gero,¿Me das agua?,Comida,Demanda
-54,2024-11-16,22:08,2024-11-16 22:08:00,Mamá,Eva,¿Me das agua?,Comida,Demanda
-55,2024-11-16,23:00,2024-11-16 23:00:00,Papá,Gero,¿Me llevas a dormir?,Horario,Demanda
-56,2024-11-16,23:00,2024-11-16 23:00:00,Mamá,Eva,¿Puedo ver un rato más mi tablet?,Tecnología,Permiso
-"57,2024-11-16,23:36,2024-11-16 23:36:00,Mamá,Eva,""Tengo sueño, ¿me llevas a dormir?"",Horario,Demanda"
-58,2024-11-17,8:35,2024-11-17 08:35:00,Mamá,Gero,¿Me das el desayuno?,Comida,Demanda
-59,2024-11-17,8:50,2024-11-17 08:50:00,Papá,Gero,¿Me pones La Bestia?,Tecnología,Demanda
-60,2024-11-17,9:20,2024-11-17 09:20:00,Papá,Gero,¿Puedo ver un ratito la tablet?,Tecnología,Permiso
-61,2024-11-17,9:20,2024-11-17 09:20:00,Mamá,Eva,Despertate,Horario,Demanda
-62,2024-11-17,10:47,2024-11-17 10:47:00,Mamá,Eva,¿Jugamos al Bingo?,Actividad,Atención
-63,2024-11-17,12:05,2024-11-17 12:05:00,Mamá,Gero,¿Puedo ver mi tablet?,Tecnología,Permiso
-64,2024-11-17,12:06,2024-11-17 12:06:00,Mamá,Gero,¿Pones a cargar mi tablet?,Tecnología,Demanda
-65,2024-11-17,12:10,2024-11-17 12:10:00,Papá,Gero,¿Vamos hacer la guerra?,Actividad,Atención
-64,2024-11-17,13:03,2024-11-17 13:03:00,Mamá,Gero,¿Pusiste a cargar mi tablet?,Tecnología,Consulta
-65,2024-11-17,13:14,2024-11-17 13:14:00,Mamá,Eva,¿Abris la pintura? ¿Me ayudas con el cuadro?,Actividad,Atención
-66,2024-11-17,13:23,2024-11-17 13:23:00,Mamá,Eva,No encuentro el video del cuadro ¿me ayudas?,Tecnología,Demanda
-67,2024-11-17,13:32,2024-11-17 13:32:00,Mamá,Eva,No me salen los árboles ¿me ayudas?,Actividad,Atención
-67,2024-11-17,14:00,2024-11-17 14:00:00,Papá,Gero,Tengo hambre ¿Ya está la comida?,Comida,Demanda
-68,2024-11-17,14:15,2024-11-17 14:15:00,Mamá,Eva,¿Me das agua?,Comida,Demanda
-69,2024-11-17,14:16,2024-11-17 14:16:00,Mamá,Gero,¿A mi también me das agua?,Comida,Demanda
-70,2024-11-17,15:00,2024-11-17 15:00:00,Mamá,Eva,¿Puedo jugar con mis amigas a Roblox?,Tecnología,Permiso
-71,2024-11-17,15:10,2024-11-17 15:10:00,Mamá,Gero,¿Hacemos la torta?,Actividad,Atención
-72,2024-11-17,15:22,2024-11-17 15:22:00,Mamá,Gero,Poné la canción Zombie vs Creeper,Tecnología,Demanda
-73,2024-11-17,18:30,2024-11-17 18:30:00,Papá,Gero,Jugamos a algo,Actividad,Atención
-74,2024-11-17,18:56,2024-11-17 18:56:00,Mamá,Gero,Eva me pelea,Pelea,Atención
-75,2024-11-17,18:57,2024-11-17 18:57:00,Mamá,Eva,¿Qué comemos? Quiero torta,Comida,Demanda
-76,2024-11-17,19:02,2024-11-17 19:02:00,Papá,Gero,Tengo mocos,Varios,Aviso
-77,2024-11-17,19:07,2024-11-17 19:07:00,Papá,Gero,Tomá (el pañuelo con mocos),Objeto,Demanda
-78,2024-11-17,19:30,2024-11-17 19:30:00,Mamá,Eva,¿Jugamos al Bingo?,Actividad,Atención
-79,2024-11-17,20:00,2024-11-17 20:00:00,Mamá,Gero,¿Puedo ver un rato más mi tablet?,Tecnología,Permiso
-80,2024-11-17,20:01,2024-11-17 20:01:00,Mamá,Eva,¿Yo también?,Tecnología,Permiso
-81,2024-11-17,21:47,2024-11-17 21:47:00,Papá,Eva,¿Hay postre?,Comida,Consulta
-82,2024-11-17,22:30,2024-11-17 22:30:00,Mamá,Gero,¿Vamos a dormir?,Horario,Demanda
-83,2024-11-17,22:42,2024-11-17 22:42:00,Papá,Eva,¿Me traes agua?,Comida,Demanda
+30,2024-11-16,13:50,2024-11-16 13:50:00,Mamá,Gero,A mi también, ¿Así? (mientras se tira de cabeza),Mirame,Atención
+31,2024-11-16,13:55,2024-11-16 13:55:00,Mamá,Eva,Mirame, me tiro otra vez,Mirame,Atención
+32,2024-11-16,14:30,2024-11-16 14:30:00,Mamá,Gero,Necesito una curita, me duele la rodilla,Objeto,Demanda
+33,2024-11-16,14:35,2024-11-16 14:35:00,Mamá,Eva,¿Te sentas a lado mio?,Varios,Demanda
+34,2024-11-16,14:37,2024-11-16 14:37:00,Papá,Gero,¿Me pasas pan?,Comida,Demanda
+35,2024-11-16,14:50,2024-11-16 14:50:00,Papá,Gero,¿Me das más carne?,Comida,Demanda
+36,2024-11-16,14:58,2024-11-16 14:58:00,Mamá,Eva,¿Me haces otro sanguchito?,Comida,Demanda
+37,2024-11-16,15:46,2024-11-16 15:46:00,Mamá,Eva,¿Conectas Internet? (tablet),Tecnología,Demanda
+38,2024-11-16,16:00,2024-11-16 16:00:00,Mamá,Gero,Tengo que hacer pis y estoy todo mojado ¿Qué hago?,Varios,Consulta
+39,2024-11-16,16:01,2024-11-16 16:01:00,Papá,Gero,Pasame la toalla,Objeto,Demanda
+40,2024-11-16,16:52,2024-11-16 16:52:00,Papá,Gero,Mirá (mientras hace algo con los juguetes),Mirame,Atención
+41,2024-11-16,17:45,2024-11-16 17:45:00,Mamá,Eva,¿Me ayudas a terminar el cuadro?,Actividad,Atención
+42,2024-11-16,17:47,2024-11-16 17:47:00,Mamá,Eva,¿Dónde está la bolsa con mis cosas?,Objeto,Demanda
+43,2024-11-16,17:50,2024-11-16 17:50:00,Papá,Eva,¿Dónde está la llave del auto?,Objeto,Demanda
+44,2024-11-16,18:20,2024-11-16 18:20:00,Mamá,Eva,¿Podemos meternos a la pileta?,Varios,Permiso
+45,2024-11-16,19:22,2024-11-16 19:22:00,Mamá,Eva,¿Me pasas mi toalla?,Objeto,Demanda
+46,2024-11-16,19:22,2024-11-16 19:22:00,Mamá,Gero,A mi la mía (su toalla),Objeto,Demanda
+47,2024-11-16,19:30,2024-11-16 19:30:00,Mamá,Gero,Vení mami, me duele,Golpe,Atención
+48,2024-11-16,19:40,2024-11-16 19:40:00,Mamá,Gero,¿Me bañas?,Higiene,Demanda
+49,2024-11-16,19:50,2024-11-16 19:50:00,Mamá,Eva,Me quiero bañar,Higiene,Demanda
+50,2024-11-16,20:30,2024-11-16 20:30:00,Papá,Gero,¿Puedo ver mi tablet?,Tecnología,Permiso
+51,2024-11-16,21:21,2024-11-16 21:21:00,Papá,Gero,¿Pueden empezar hacer las patys?,Comida,Demanda
+52,2024-11-16,22:07,2024-11-16 22:07:00,Mamá,Gero,¿Me das agua?,Comida,Demanda
+53,2024-11-16,22:08,2024-11-16 22:08:00,Mamá,Eva,¿Me das agua?,Comida,Demanda
+54,2024-11-16,23:00,2024-11-16 23:00:00,Papá,Gero,¿Me llevas a dormir?,Horario,Demanda
+55,2024-11-16,23:00,2024-11-16 23:00:00,Mamá,Eva,¿Puedo ver un rato más mi tablet?,Tecnología,Permiso
+56,2024-11-16,23:36,2024-11-16 23:36:00,Mamá,Eva,Tengo sueño, ¿me llevas a dormir?,Horario,Demanda
+57,2024-11-17,8:35,2024-11-17 08:35:00,Mamá,Gero,¿Me das el desayuno?,Comida,Demanda
+58,2024-11-17,8:50,2024-11-17 08:50:00,Papá,Gero,¿Me pones La Bestia?,Tecnología,Demanda
+59,2024-11-17,9:20,2024-11-17 09:20:00,Papá,Gero,¿Puedo ver un ratito la tablet?,Tecnología,Permiso
+60,2024-11-17,9:20,2024-11-17 09:20:00,Mamá,Eva,Despertate,Horario,Demanda
+61,2024-11-17,10:47,2024-11-17 10:47:00,Mamá,Eva,¿Jugamos al Bingo?,Actividad,Atención
+62,2024-11-17,12:05,2024-11-17 12:05:00,Mamá,Gero,¿Puedo ver mi tablet?,Tecnología,Permiso
+63,2024-11-17,12:06,2024-11-17 12:06:00,Mamá,Gero,¿Pones a cargar mi tablet?,Tecnología,Demanda
+64,2024-11-17,12:10,2024-11-17 12:10:00,Papá,Gero,¿Vamos hacer la guerra?,Actividad,Atención
+65,2024-11-17,13:03,2024-11-17 13:03:00,Mamá,Gero,¿Pusiste a cargar mi tablet?,Tecnología,Consulta
+66,2024-11-17,13:14,2024-11-17 13:14:00,Mamá,Eva,¿Abris la pintura? ¿Me ayudas con el cuadro?,Actividad,Atención
+67,2024-11-17,13:23,2024-11-17 13:23:00,Mamá,Eva,No encuentro el video del cuadro ¿me ayudas?,Tecnología,Demanda
+68,2024-11-17,13:32,2024-11-17 13:32:00,Mamá,Eva,No me salen los árboles ¿me ayudas?,Actividad,Atención
+69,2024-11-17,14:00,2024-11-17 14:00:00,Papá,Gero,Tengo hambre ¿Ya está la comida?,Comida,Demanda
+70,2024-11-17,14:15,2024-11-17 14:15:00,Mamá,Eva,¿Me das agua?,Comida,Demanda
+71,2024-11-17,14:16,2024-11-17 14:16:00,Mamá,Gero,¿A mi también me das agua?,Comida,Demanda
+72,2024-11-17,15:00,2024-11-17 15:00:00,Mamá,Eva,¿Puedo jugar con mis amigas a Roblox?,Tecnología,Permiso
+73,2024-11-17,15:10,2024-11-17 15:10:00,Mamá,Gero,¿Hacemos la torta?,Actividad,Atención
+74,2024-11-17,15:22,2024-11-17 15:22:00,Mamá,Gero,Poné la canción Zombie vs Creeper,Tecnología,Demanda
+75,2024-11-17,18:30,2024-11-17 18:30:00,Papá,Gero,Jugamos a algo,Actividad,Atención
+76,2024-11-17,18:56,2024-11-17 18:56:00,Mamá,Gero,Eva me pelea,Pelea,Atención
+77,2024-11-17,18:57,2024-11-17 18:57:00,Mamá,Eva,¿Qué comemos? Quiero torta,Comida,Demanda
+78,2024-11-17,19:02,2024-11-17 19:02:00,Papá,Gero,Tengo mocos,Varios,Aviso
+79,2024-11-17,19:07,2024-11-17 19:07:00,Papá,Gero,Tomá (el pañuelo con mocos),Objeto,Demanda
+80,2024-11-17,19:30,2024-11-17 19:30:00,Mamá,Eva,¿Jugamos al Bingo?,Actividad,Atención
+81,2024-11-17,20:00,2024-11-17 20:00:00,Mamá,Gero,¿Puedo ver un rato más mi tablet?,Tecnología,Permiso
+82,2024-11-17,20:01,2024-11-17 20:01:00,Mamá,Eva,¿Yo también?,Tecnología,Permiso
+83,2024-11-17,21:47,2024-11-17 21:47:00,Papá,Eva,¿Hay postre?,Comida,Consulta
+84,2024-11-17,22:30,2024-11-17 22:30:00,Mamá,Gero,¿Vamos a dormir?,Horario,Demanda
+85,2024-11-17,22:42,2024-11-17 22:42:00,Papá,Eva,¿Me traes agua?,Comida,Demanda
