@@ -2,7 +2,7 @@ ID,Fecha,Hora,Fecha y Hora,Mapadre,Hija/o,Pedido,Clave,Tipo
 1,2024-11-16,7:28,2024-11-16 07:28:00,Mamá,Gero,¿Cargaste mi tablet?,Tecnología,Consulta
 2,2024-11-16,7:30,2024-11-16 07:30:00,Papá,Gero,¿Me haces el desayuno?,Comida,Demanda
 3,2024-11-16,8:00,2024-11-16 08:00:00,Mamá,Gero,¿A qué hora nos vamos?,Horario,Consulta
-4,2024-11-16,8:57,2024-11-16 08:57:00,Mamá,Gero,Ya está, me lavé los dientes,Higiene,Aviso
+4,2024-11-16,8:57,2024-11-16 08:57:00,Mamá,Gero,Ya está me lavé los dientes,Higiene,Aviso
 5,2024-11-16,9:01,2024-11-16 09:01:00,Papá,Gero,¿Regamos al loco lopez?,Objeto,Demanda
 6,2024-11-16,9:11,2024-11-16 09:11:00,Mamá,Gero,Le tire agua al loco lopez con este vaso,Objeto,Aviso
 7,2024-11-16,9:14,2024-11-16 09:14:00,Mamá,Eva,¿Nos vamos?,Horario,Consulta
@@ -29,8 +29,8 @@ ID,Fecha,Hora,Fecha y Hora,Mapadre,Hija/o,Pedido,Clave,Tipo
 28,2024-11-16,13:42,2024-11-16 13:42:00,Papá,Gero,Eva me pelea,Pelea,Atención
 29,2024-11-16,13:49,2024-11-16 13:49:00,Mamá,Eva,Mirame (mientras se tira de cabeza),Mirame,Atención
 30,2024-11-16,13:50,2024-11-16 13:50:00,Mamá,Gero,A mi también, ¿Así? (mientras se tira de cabeza),Mirame,Atención
-31,2024-11-16,13:55,2024-11-16 13:55:00,Mamá,Eva,Mirame, me tiro otra vez,Mirame,Atención
-32,2024-11-16,14:30,2024-11-16 14:30:00,Mamá,Gero,Necesito una curita, me duele la rodilla,Objeto,Demanda
+31,2024-11-16,13:55,2024-11-16 13:55:00,Mamá,Eva,Mirame me tiro otra vez,Mirame,Atención
+32,2024-11-16,14:30,2024-11-16 14:30:00,Mamá,Gero,Necesito una curita. Me duele la rodilla,Objeto,Demanda
 33,2024-11-16,14:35,2024-11-16 14:35:00,Mamá,Eva,¿Te sentas a lado mio?,Varios,Demanda
 34,2024-11-16,14:37,2024-11-16 14:37:00,Papá,Gero,¿Me pasas pan?,Comida,Demanda
 35,2024-11-16,14:50,2024-11-16 14:50:00,Papá,Gero,¿Me das más carne?,Comida,Demanda
@@ -45,7 +45,7 @@ ID,Fecha,Hora,Fecha y Hora,Mapadre,Hija/o,Pedido,Clave,Tipo
 44,2024-11-16,18:20,2024-11-16 18:20:00,Mamá,Eva,¿Podemos meternos a la pileta?,Varios,Permiso
 45,2024-11-16,19:22,2024-11-16 19:22:00,Mamá,Eva,¿Me pasas mi toalla?,Objeto,Demanda
 46,2024-11-16,19:22,2024-11-16 19:22:00,Mamá,Gero,A mi la mía (su toalla),Objeto,Demanda
-47,2024-11-16,19:30,2024-11-16 19:30:00,Mamá,Gero,Vení mami, me duele,Golpe,Atención
+47,2024-11-16,19:30,2024-11-16 19:30:00,Mamá,Gero,Vení mami. Me duele,Golpe,Atención
 48,2024-11-16,19:40,2024-11-16 19:40:00,Mamá,Gero,¿Me bañas?,Higiene,Demanda
 49,2024-11-16,19:50,2024-11-16 19:50:00,Mamá,Eva,Me quiero bañar,Higiene,Demanda
 50,2024-11-16,20:30,2024-11-16 20:30:00,Papá,Gero,¿Puedo ver mi tablet?,Tecnología,Permiso
@@ -54,7 +54,7 @@ ID,Fecha,Hora,Fecha y Hora,Mapadre,Hija/o,Pedido,Clave,Tipo
 53,2024-11-16,22:08,2024-11-16 22:08:00,Mamá,Eva,¿Me das agua?,Comida,Demanda
 54,2024-11-16,23:00,2024-11-16 23:00:00,Papá,Gero,¿Me llevas a dormir?,Horario,Demanda
 55,2024-11-16,23:00,2024-11-16 23:00:00,Mamá,Eva,¿Puedo ver un rato más mi tablet?,Tecnología,Permiso
-56,2024-11-16,23:36,2024-11-16 23:36:00,Mamá,Eva,Tengo sueño, ¿me llevas a dormir?,Horario,Demanda
+56,2024-11-16,23:36,2024-11-16 23:36:00,Mamá,Eva,Tengo sueño ¿Me llevas a dormir?,Horario,Demanda
 57,2024-11-17,8:35,2024-11-17 08:35:00,Mamá,Gero,¿Me das el desayuno?,Comida,Demanda
 58,2024-11-17,8:50,2024-11-17 08:50:00,Papá,Gero,¿Me pones La Bestia?,Tecnología,Demanda
 59,2024-11-17,9:20,2024-11-17 09:20:00,Papá,Gero,¿Puedo ver un ratito la tablet?,Tecnología,Permiso
