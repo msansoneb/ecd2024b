@@ -25,7 +25,7 @@ ID,Fecha,Hora,Fecha y Hora,Mapadre,Hija/o,Pedido,Clave,Tipo
 24,2024-11-16,12:47,2024-11-16 12:47:00,Mamá,Gero,¿Dónde están mis antiparras?,Objeto,Demanda
 25,2024-11-16,13:05,2024-11-16 13:05:00,Papá,Eva,¿Trajiste otro paquete de bombuchas?,Objeto,Demanda
 26,2024-11-16,13:11,2024-11-16 13:11:00,Mamá,Gero,¿Me atas la malla? se me caé,Objeto,Demanda
-27,2024-11-16,13:32,2024-11-16 13:32:00,Mamá,Gero,Me golpeé la rodilla, me duela,Golpe,Atención
+27,2024-11-16,13:32,2024-11-16 13:32:00,Mamá,Gero,Me golpeé la rodilla. Me duela,Golpe,Atención
 28,2024-11-16,13:42,2024-11-16 13:42:00,Papá,Gero,Eva me pelea,Pelea,Atención
 29,2024-11-16,13:49,2024-11-16 13:49:00,Mamá,Eva,Mirame (mientras se tira de cabeza),Mirame,Atención
 30,2024-11-16,13:50,2024-11-16 13:50:00,Mamá,Gero,A mi también, ¿Así? (mientras se tira de cabeza),Mirame,Atención
